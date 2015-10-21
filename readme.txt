@@ -4,4 +4,4 @@ Git has a mutalbe index called satage.
 Git tracks changes of files.
 Create a new branch is quick.
 motify branch dev
-i dev3b
+ai dev3b
